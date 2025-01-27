@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hello world!
+Welcome to my GitHub profile! 🚀 I'm excited you stopped by.
 
-<!--
-**twinsten/twinsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects 💡
+- Bachelor's & Master's Project : Worked with analytical and DL methods to segment microscopy images from calcium imaging, aiming to extract signals and analyze complex networks in neuron cell tissues.
+- [CellRex](https://github.com/cellrex/cellrex) : Co-developed with @tivenide a lightweight platform for enriching measurement data with biological metadata and storing it in a structured database. A research paper is in progress! 📄
 
-Here are some ideas to get you started:
+## Languages & Tools 🛠️
+### Programming Languages
+- Python, C and university made me learn MATLAB 🤯
+- Some JS and aspiring to learn Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Frameworks
+- DL frameworks: `TensorFlow`, `PyTorch`, and `Flax`
+- Experiment tracking and profiling with `TensorBoard` and `MLflow`
+- Frontend development with `Streamlit` for dashboards and analysis apps
+- Data visualization using `Plotly`
+- Database experience: `SQLite` and `MongoDB`
+- Backend implementations and API design with `FastAPI`
+
+## Looking Forward 🌟
+
+- Exploring Retrieval-Augmented Generation systems and advanced LLM applications.
+- Focused on enhancing image processing techniques.
+
+Feel free to reach out if you're curious or have some cool projects up your sleeve!
