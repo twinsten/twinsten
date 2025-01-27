@@ -3,7 +3,7 @@ Welcome to my GitHub profile! 🚀 I'm excited you stopped by.
 
 ## Projects 💡
 - Bachelor's & Master's Project : Worked with analytical and DL methods to segment microscopy images from calcium imaging, aiming to extract signals and analyze complex networks in neuron cell tissues.
-- [CellRex](https://github.com/cellrex/cellrex) : Co-developed with @tivenide a lightweight platform for enriching measurement data with biological metadata and storing it in a structured database. A research paper is in progress! 📄
+- [CellRex](https://github.com/cellrex/cellrex) : Co-developed with [@tivenide](https://github.com/tivenide) a lightweight platform for enriching measurement data with biological metadata and storing it in a structured database. A research paper is in progress! 📄
 
 ## Languages & Tools 🛠️
 ### Programming Languages
