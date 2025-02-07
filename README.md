@@ -1,5 +1,5 @@
 ## 👋 Hello world!
-Welcome to my GitHub profile! 🚀 I'm excited you stopped by.
+Welcome to my GitHub profile! 🚀 I'm excited you stopped by. Also have a look at my GitHub pages website at [twinsten.github.io](https://twinsten.github.io/).
 
 ## Projects 💡
 - Bachelor's & Master's Project : Worked with analytical and DL methods to segment microscopy images from calcium imaging, aiming to extract signals and analyze complex networks in neuron cell tissues.
